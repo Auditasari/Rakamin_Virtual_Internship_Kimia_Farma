@@ -9,7 +9,8 @@ Indonesia's Geo Map Untuk Total Profit Masing-masing Provinsi
 
 Project ini dijalankan menggunakan google bigquery serta membuat dashboard menggunakan google looker studio. 
 
-[Link vidio persentasi :](https://drive.google.com/drive/u/0/folders/1PV6h6Wv7mw6mdsgeggUeMTL6PYn2N7nQ)
+[Link Dashboard Google Looker :](https://lookerstudio.google.com/reporting/d3e41c4f-3b2f-46b3-af5a-5bef28cd28ec)
+
 
 ### BigQuery Syntax
 
